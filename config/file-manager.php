@@ -34,6 +34,8 @@ return [
      */
     'leftDisk' => null,
 
+    'locale' => \App::getLocale(),
+
     /**
      * Default disk for right manager
      *
